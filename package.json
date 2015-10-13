@@ -22,7 +22,7 @@
     "babel": "^5.8.23",
     "babel-eslint": "^4.1.3",
     "babelify": "^6.3.0",
-    "browser-sync": "^2.9.10",
+    "browser-sync": "^2.9.11",
     "eslint": "^1.6.0",
     "eslint-plugin-react": "^3.5.1",
     "espower-babel": "^3.3.0",
